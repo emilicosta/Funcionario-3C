@@ -1,0 +1,38 @@
+.container-principal{
+    margin-top: 16px;
+}
+
+.card{
+    margin-bottom: 16px;
+}
+
+footer{
+    color: rgb(0, 233, 155);
+    background-color:rgb(245, 245, 245);
+    text-align: center;
+    padding: 32px;
+} 
+
+ul{
+ margin-bottom: 0;
+}
+
+li{
+    list-style-type: none;
+}
+.container-header-funcionario{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    padding: 32px;
+    color: rgb(255, 255, 255);
+    background-color:rgb(32, 238, 169);
+    text-align: center;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.container-funcionario{
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 15px;
+    padding: 16px;
+}
